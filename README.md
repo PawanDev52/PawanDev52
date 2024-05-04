@@ -1,5 +1,5 @@
 <h1 align = center>Hi there 👋 I'm Pawan Sharma</h1>
-<h3>A passionate Web Developer</h3>
+<p align = center>A passionate Web Developer</p>
 I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ## 🚀 About Me
@@ -14,4 +14,4 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 - ✍️ Content Writer.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,js,html,css,c,bootstrap,wordpress,figma,mysql,vscode)](https://skillicons.dev)
