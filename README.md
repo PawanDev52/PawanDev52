@@ -13,5 +13,5 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 - 🌐 Proud member.
 - ✍️ Content Writer.
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=php,js,html,css,c,bootstrap,wordpress,figma,mysql,vscode)](https://skillicons.dev)
+## Languages & Tools
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,wordpress,figma,c,mysql,vscode,replit)](https://skillicons.dev)
