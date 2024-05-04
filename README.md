@@ -71,5 +71,22 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <th><a href="https://github.com/PawanDev52"><img align="center" src="https://github-contributor-stats.vercel.app/api?username=PawanDev52&limit=5&combine_all_yearly_contributions=true&theme=dark&hide_border=true&custom_title=Top%20Contributed%20Repo" height="200em" /></a>
+    </th>
+    <th><a href="https://github.com/PawanDev52"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawanDev52&theme=dark" height="180em" /></a>
+    </th>
+  </tr>
+</table>
+
+#### Top Repositories
+
+<a href="https://github.com/PawanDev52/Role-Playing-Game">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PawanDev52&repo=Role-Playing-Game&theme=dark&hide_border=true" />
+</a>
+<a href="https://github.com/PawanDev52/crud-app">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PawanDev52&repo=crud-app&theme=dark&hide_border=true" />
+</a>
 
 
