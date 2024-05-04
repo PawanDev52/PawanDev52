@@ -13,10 +13,15 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 - 🌐 Proud member.
 - ✍️ Content Writer.
 
+
 ## 👩🏻‍💻 Languages & Tools
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,wordpress,figma,c,mysql,vscode,replit)](https://skillicons.dev)
+
 
 ## 📬 Connect with me
 
 - Connect with me on [Twitter](https://x.com/imbrajwasi?s=09)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- <p align="left">
+<a href="https://www.linkedin.com/in/pawan-sharma-b29067245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pawan-sharma-b29067245" height="30" width="40" /></a>
+</p>
