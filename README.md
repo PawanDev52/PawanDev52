@@ -89,4 +89,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PawanDev52&repo=crud-app&theme=dark&hide_border=true" />
 </a>
 
+<!-- **************** RESOURCES *************** -->
 
+<!--  - icons...  https://simpleicons.org/ | https://devicon.dev/ |   https://gist.github.com/rxaviers/7360908
+  - Company logos...    https://home.aveek.io/GitHub-Profile-Badges/
+  Github Generators....
+  https://gprm.itsvg.in/  |  https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
