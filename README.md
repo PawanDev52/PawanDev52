@@ -20,3 +20,24 @@
   <a href="https://www.freecodecamp.org/Pawandev52"><img src="https://img.shields.io/badge/freeCodeCamp-d5d5d5?style=for-the-badge&logo=freecodecamp&logoColor=0A0209" alt="profile of freeCodeCamp with username Pawandev52" /></a>
   <a href="https://replit.com/@PawanBhardwaj1"><img src="https://img.shields.io/badge/replit-d5d5d5?style=for-the-badge&logo=replit&logoColor=0A0209" alt="profile of Replit with username PawanBhardwaj1" /></a>
 </div>
+
+<!-- # Hello 👋 -->
+
+<div align="center">
+
+### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> my name is Pawan and I am a Web developer
+
+</div>
+
+<p align="justify">Passionate Front-End Developer dedicated to crafting stunning and user-friendly web interfaces. Thrives on continuous learning and thrives in a collaborative startup environment, eager to make impactful contributions to the team.</p>
+
+<!-- ### 🎯 Some technologies I use: -->
+<div align="center">
+
+<h2 align="center">Skills & Tools</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,wordpress,figma,c,mysql,vscode)](https://jpdiaz.dev)
+
+</div>
+
+
