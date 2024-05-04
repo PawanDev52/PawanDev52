@@ -40,4 +40,24 @@
 
 </div>
 
+<hr>
+
+ <!-- <a href="https://jpdiaz.dev">
+    <img align="right" src="assets/images/avatar.svg" width="300">
+ </a> -->
+
+ <!-- ## About Me -->
+
+- 📆 I’m currently working on... Cool projects
+- 🌱 I’m currently learning ... ⚡ JavaScript frameworks & PHP
+- 💬 Ask me about ** PHP, Wordpress, HTML, CSS, Javascript **
+- 🤔 I’m looking for guidance in... Breaking into the front-end development industry.
+- 🎮 I'm passionate about... Web Development & Never Stop Learning.
+- ⚡ Fun fact: Developers often joke that the best code is the one you wrote a year ago and can still understand!
+<!-- - 👯 I’m looking to collaborate on...
+- 📝 write
+- 🌐 Proud member.
+- ✍️ Content Writer.
+- 🤔 I’m looking for help with...  -->
+
 
