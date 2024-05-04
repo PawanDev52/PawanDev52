@@ -1,7 +1,7 @@
 <div align="center">
   <p>
     <a href="https://github.com/PawanDev52">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=510&height=25&lines=Pawan+Sharma" alt="Pawan Sharma"/></a>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=510&height=25&lines=Welcome+to+Pawan+Sharma's+Profile!" alt="Pawan Sharma"/></a>
   </p>
 
   <p>
@@ -59,5 +59,17 @@
 - 🌐 Proud member.
 - ✍️ Content Writer.
 - 🤔 I’m looking for help with...  -->
+
+<a href="https://github.com/pawandev52?tab=repositories">
+<img src="https://streak-stats.demolab.com?user=pawandev52&theme=dark&hide_border=true" /></a>
+
+<table>
+  <tr>
+    <th><a href="https://github.com/PawanDev52"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PawanDev52&theme=dark" height="220em" /></a></th>
+    <th><a href="https://github.com/PawanDev52"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PawanDev52&exclude=Jupyter%20Notebook&theme=dark" height="220em" /></a></th>
+    <th><a href="https://github.com/PawanDev52?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanDev52&layout=compact&theme=dark&hide=jupyter%20notebook,scss,ruby,shell,python&hide_border=true" height="220em" /></a></th>
+  </tr>
+</table>
+
 
 
