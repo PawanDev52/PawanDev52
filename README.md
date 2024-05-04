@@ -42,9 +42,9 @@
 
 <hr>
 
- <!-- <a href="https://jpdiaz.dev">
-    <img align="right" src="assets/images/avatar.svg" width="300">
- </a> -->
+ <a href="https://github.com/PawanDev52">
+    <img align="right" src="assets/images/dev.webp" width="300">
+ </a>
 
  <!-- ## About Me -->
 
