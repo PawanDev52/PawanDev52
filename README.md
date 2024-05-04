@@ -13,5 +13,10 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 - 🌐 Proud member.
 - ✍️ Content Writer.
 
-## Languages & Tools
+## 👩🏻‍💻 Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,wordpress,figma,c,mysql,vscode,replit)](https://skillicons.dev)
+
+## 📬 Connect with me
+
+- Connect with me on [Twitter](https://x.com/imbrajwasi?s=09)
+- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
