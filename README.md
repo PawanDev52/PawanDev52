@@ -36,7 +36,7 @@
 
 <h2 align="center">Skills & Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,php,wordpress,mysql,git,figma,c,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,js,html,css,tailwind,bootstrap,php,wordpress,mysql,git,figma,c,vscode)](https://skillicons.dev)
 
 </div>
 
